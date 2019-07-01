@@ -31,6 +31,7 @@ globalTempo = {
 		\new StaffGroup <<
 			\include "sennortenpiedadcombo-soprano.inc"
 			\include "sennortenpiedadcombo-mezzo.inc"
+			\include "sennortenpiedadcombo-tenor.inc"
 		>>
 	>>
 
