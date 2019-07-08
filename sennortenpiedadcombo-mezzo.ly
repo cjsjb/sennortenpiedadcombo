@@ -3,7 +3,7 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-	title = "Señor, ten piedad"
+	title = "Señor, ten piedad de mí"
 	subtitle = "Combo"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Mezzosoprano"
