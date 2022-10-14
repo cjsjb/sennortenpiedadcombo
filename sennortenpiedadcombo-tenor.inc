@@ -31,7 +31,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-tenor" {
 		Se -- ñor, ten pie -- dad de mí,
 		Cris -- to, ten pie -- dad de mí,
 		Se -- ñor, ten pie -- dad.
