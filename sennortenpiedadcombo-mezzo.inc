@@ -14,20 +14,20 @@
 		\clef "treble"
 		\key d \major
 
-                R1  |
-                r2 r4 r8 d'  |
-                d' 4 d' 8 e' d' cis' 16 a 8. r8  |
-                d' 8 d' d' e' d' cis' 16 a 8. b 8  |
+		R1  |
+		r2 r4 r8 d'  |
+		d' 4 d' 8 e' d' cis' 16 a 8. r8  |
+		d' 8 d' d' e' d' cis' 16 a 8. b 8  |
 %% 5
-                b 2 r4 b 8 d'  |
-                cis' 2 _~ cis' 4 r8 d'  |
-                d' 4 d' 8 e' d' cis' 16 a 8. r8  |
-                d' 8 d' d' e' d' cis' 16 a 8. b 8  |
-                b 2 r4 b 8 d'  |
+		b 2 r4 b 8 d'  |
+		cis' 2 ~ cis' 4 r8 d'  |
+		d' 4 d' 8 e' d' cis' 16 a 8. r8  |
+		d' 8 d' d' e' d' cis' 16 a 8. b 8  |
+		b 2 r4 b 8 d'  |
 %% 10
-                cis' 2 _~ cis' 4 b 8 cis'  |
-                d' 8 _( cis' 16 ) d' 8. _~ d' 8 _~ d' 2  |
-                R1  |
+		cis' 2 ~ cis' 4 b 8 cis'  |
+		d' 8 ( cis' 16 ) d' 8. ~ d' 8 ~ d' 2  |
+		R1  |
 		\bar "|."
 	}
 
